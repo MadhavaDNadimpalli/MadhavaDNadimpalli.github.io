@@ -1,3 +1,3 @@
-# Product Manager/Product Owner
+Product Manager/Product Owner
 
 #Experience 
