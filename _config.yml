@@ -1,5 +1,6 @@
 title: Madhava Nadimpalli
 logo:
 #desciption :Text belwo Image 
-Show_download:true
+Show_download:false
+theme:jekyll-theme-minimal
 
