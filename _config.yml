@@ -2,8 +2,9 @@ title: Madhava Nadimpalli |CSPO
 logo:
 Description : Product Manager/Product owner |CAT Digital 
 Show_download : false
+email: madhavadnadimpalli@gmail.com
 theme: jekyll-theme-minimal
- links:
+links
     - title: Linkedin
       url: https://www.linkedin.com/in/madhava-nadimpalli-313b20144/
       icon: fab fa-twitter-square
