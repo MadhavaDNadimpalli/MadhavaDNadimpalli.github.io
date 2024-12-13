@@ -5,9 +5,7 @@ Show_download : false
 email: madhavadnadimpalli@gmail.com
 theme: jekyll-theme-minimal
 Social_links: 
-     title: Linkedin
-      url: https://www.linkedin.com/in/madhava-nadimpalli-313b20144/
+   Linkedin : https://www.linkedin.com/in/madhava-nadimpalli-313b20144/
       icon: fab fa-twitter-square
-     title: GitHub
-      url: https://github.com/MadhavaDNadimpalli
+    GitHub : https://github.com/MadhavaDNadimpalli
       icon: fab fa-github-square
