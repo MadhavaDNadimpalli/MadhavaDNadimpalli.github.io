@@ -4,6 +4,11 @@ About Me
 
 Result-oriented product manager with over 10 years of expertise in delivering Products in-line with Customer expectations and business goals, coordinating cross-functional teams to execute product vision and translating Business requiremnts into reality.
 
+Education
+- Bachelors of Technology(2006-2010) | Jawaharlal Nehru Technological University | India  <br />
+- Masters of Science (2014-2015) | University of Central Missouri | USA <br />
+
+
 Skills 
  
 - Work Planning / Estimation
