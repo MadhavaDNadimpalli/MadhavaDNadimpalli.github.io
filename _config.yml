@@ -3,7 +3,13 @@ logo:
 Description : Product Manager/Product owner |CAT Digital 
 Show_download : false
 theme: jekyll-theme-minimal
-Description : <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhava-nadimpalli-313b20144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhava-nadimpalli-313b20144/" height="30" width="40" /></a>
-</p>
+ links:
+    - title: Linkedin
+      url: https://www.linkedin.com/in/madhava-nadimpalli-313b20144/
+      icon: fab fa-twitter-square
+    - title: Email
+      description: madhavadnadimpalli@gmail.com
+      icon: fab fa-Gmail
+    - title: GitHub
+      url: https://github.com/MadhavaDNadimpalli
+      icon: fab fa-github-square
