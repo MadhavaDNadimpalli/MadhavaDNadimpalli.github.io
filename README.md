@@ -56,6 +56,34 @@ Charter Communications  <br />
  - Generating Adhoc SQL queries based on the requirement and assisting the developers in generating SSRS reports and validating the data for mismatch before sending it to user’s and owning reporting data. <br />
 
 T Rowe Price  <br />
+ - Closely worked with Business users of external vendors (Morningstar, eVestment, RPAG, FI360, Strategic Insights, Brightscope) for gathering, documenting and communicated business requirements into systems design documents. <br />
+ - Lead the development/end-to-end implementation of TRP reports (AOC, Model Portfolios, Rec Lists) to grow and retain TRP’s Loyal customer base.<br />
+ - Preparing Documentation for  data projects Including defining the database requirements, table structures, database relationships.<br />
+ - Designed Testing scenarios, Developed Automated test cases using HP UFT and Manual test cases using HP ALM. Tested the ETL INFORMATIA mappings, Conducted User Acceptance Testing (UAT) and Regression Testing. <br />
+ - Actively presented biweekly sprint demonstration, sprint retrospective meetings, owning product backlog, Prioritizing backlog and showing  expertise in maintaining agile tools like JIRA, RALLY. <br />
+ - Leading Daily standups meeting with team and business users, Tracking and Updating user stories across the tool.  <br />
+
+i2 IT Solutions INC.- <br /> 
+ - Worked on multiple BI projects based on requirements from the campaign management business team. These projects primarily measure usage of various new products that T-Mobile is launching into the market. <br />  
+ - Translated business requirements into functional requirements and identified/assessed potential data sources. <br /> 
+ -  Interacted with business users in knowing the business views and gathered reporting requirements to help design the universe for Cognos.  <br />
+ - Identified various dimensions of reporting, including defining the reporting requirements, identifying the source data and mapping to the target locations.  <br />
+ - Checked the data flow through the front end to backend using SQL queries to extract the data from the database.  <br /> 
+ - Designed business use case scenarios, use case realizations diagrams and workflow charts for documenting the requirements Using MS VISIO.  <br />
+
+Tech Mahindra Pvt Ltd  <br />
+ - Implement a centralized consolidation system and process to support global consolidation requirements in a standardized way For GlaxoSmithKline. The objective is to maximize efficiency, improve data analytics, accelerate the month-end close Reporting and provide flexibility to adapt to future business needs. <br />
+ - Assisted project manager in creating and updating the business case, business requirements, user requirements and the project plan to define objective, scope and risks.   <br />
+ - Performed data mapping, logical data modeling, creating class diagrams and ER diagrams. Designed and developed use cases using UML and Business Process Modeling. <br />
+ - Performed data analysis and data profiling. Conducted meetings for the data modeling and analysis teams .  <br />
+ - Worked on Validating source data in the form of Oracle tables, Flat Files, Sequential files and CSV Files. <br />
+
+ Xcelerate solutions Ltd. <br />
+ - 	All phases of the Iterative approach of the SDLC from Inception to Transition. <br /> 
+ - 	Gathered, documented and communicated business requirements into system design documentation using Business Modeling concepts. <br />  
+ - Data mapping, logical data modeling, created class diagrams and ER diagram.   <br />
+ - Designed business use case scenarios, use case realizations diagrams and workflow charts. Assisted in mapping the requirements to the source systems, the DW and data marts  <br />
+ - Tested the ETL DATASTAGE mappings and other ETL Processes (Data Warehouse Testing)  <br />
 
 
  
