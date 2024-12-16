@@ -42,13 +42,20 @@ T-Mobile  <br />
 - Conduct analysis of quantitative and qualitative data to identify product innovation opportunities or root cause of 
   issues and assess opportunity size and impact. Worked with data scientists to answer complex questions or identify 
   meaningful insights from data. <br />
-- Owns and manages product backlog and priorities with business and technology teams and successfully represented Devops team in 7 PI Planning  <br />
-- Collaborates and maintains positive working relationships with many teams within EDS including sales, Marketing, Retail,  Digital, Iot and finance. Works with outside 
-  partners and other third parties. <br />
+- Owns and manages product backlog and priorities with business and technology teams and successfully represented Devops team in 7 PI Planning.  <br />
+- Collaborates and maintains positive working relationships with many teams within EDS including sales, Marketing, Retail,  Digital, Iot and finance. Works with outside partners and other third parties. <br />
 
+Charter Communications  <br />
+ - Worked on Charter commutations merger with Time Warner and Bright house ,meeting  Internal/External Stakeholders (Charter/Time warner/bright house) and leading them in Product Backlog Grooming sessions.<br />
+ - Performed deep analysis on customer data across 3 systems and preparing documentation about the analysis for the design of single DB to host all three customer data which will be used for future operations .<br />
+ - Involved in all phases of the Project Development from Project Kickoffs, requirements gathering (Functional and Database), Testing (System and UAT) for new projects and existing projects. <br />
+ - Leading the Engg team in daily standup’s and leading them in all sprint ceremonies and  with Expertise in maintaining Agile Methodologies like SCRUM(JIRA), KANBAN Boards. <br />
+ - Testing the ETL SSIS Workflows and other ETL Processes (Data Warehouse Testing). <br />
+ - Owning sprint backlog and efficiently breaking the epics to features, sprint level user story and Prioritizing the stories based on business use cases. <br />
+ - Analysis on the tickets or reports assigned to the team by the business users. <br />
+ - Generating Adhoc SQL queries based on the requirement and assisting the developers in generating SSRS reports and validating the data for mismatch before sending it to user’s and owning reporting data. <br />
 
-
-
+T Rowe Price  <br />
 
 
  
