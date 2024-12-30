@@ -35,8 +35,8 @@ Caterpiller <br />
 
 T-Mobile  <br />
  - Owned T-Mobile's Postpaid, Prepaid Customer data used for marketing campaigns and built pipelines to Realtime/batch transfers to campaigning tools. <br />
-- Built an API for transferring all store transactional data to TMO premium retailers by funneling data form multiple 
-  teams in real time bringing latency from 72 hrs to under 30 mins and onboarded all retailers across USA and Puerto Rico onto API . <br />
+- Built an API for transferring all store commissions data to TMO premium retailers by funneling data form multiple teams in real time bringing latency from 72 hrs to under 30 mins and onboarded all retailers across USA and Puerto Rico onto API . <br />
+- Built an Process to eliminate duplicate POS entry at all TPR stores across USA and Puerto Rico to save overall 50 % in labor and 40% in infrastructure costs with average cost savings  about 400K per store . <br />
 - owned end to end for Data pipelines, and cross-platform solutions covering the highest level of complexity and scope. 
   this includes creating, managing, maintaining, and communicating product vision ,Backlog and roadmap. <br />
 - Conduct analysis of quantitative and qualitative data to identify product innovation opportunities or root cause of 
